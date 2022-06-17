@@ -1,0 +1,8 @@
+*.sw*
+*.tar.gz
+*.prof*
+pcaps
+build
+bettercap-ng*.*
+bettercap-ng*
+bettercap.history
